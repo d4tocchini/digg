@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.digg.model.Comment"/>
+<classEntry path="com.digg.model.Container"/>
+<classEntry path="com.digg.model.Digg"/>
+<classEntry path="com.digg.model.Media"/>
+<classEntry path="com.digg.model.MediaSize"/>
+<classEntry path="com.digg.model.Model"/>
+<classEntry path="com.digg.model.ModelObject"/>
+<classEntry path="com.digg.model.Story"/>
+<classEntry path="com.digg.model.Topic"/>
+<classEntry path="com.digg.model.User"/>
+<classEntry path="com.digg.model.UserIconSize"/>
+<classEntry path="com.digg.services.API"/>
+<classEntry path="com.digg.services.response.CommentsResponse"/>
+<classEntry path="com.digg.services.response.ContainersResponse"/>
+<classEntry path="com.digg.services.response.DiggsResponse"/>
+<classEntry path="com.digg.services.response.IResponse"/>
+<classEntry path="com.digg.services.response.Response"/>
+<classEntry path="com.digg.services.response.ResponseMetaData"/>
+<classEntry path="com.digg.services.response.StoriesResponse"/>
+<classEntry path="com.digg.services.response.StoryResponse"/>
+<classEntry path="com.digg.services.response.TopicsResponse"/>
+<classEntry path="com.digg.services.response.UserResponse"/>
+<classEntry path="com.digg.services.response.UsersResponse"/>
+<classEntry path="com.stamen.display.DraggableSprite"/>
+<classEntry path="com.stamen.graphics.color.Color"/>
+<classEntry path="com.stamen.graphics.color.HSV"/>
+<classEntry path="com.stamen.graphics.color.HSVA"/>
+<classEntry path="com.stamen.graphics.color.IColor"/>
+<classEntry path="com.stamen.graphics.color.RGB"/>
+<classEntry path="com.stamen.graphics.color.RGBA"/>
+<classEntry path="com.stamen.utils.DateUtils"/>
+<classEntry path="com.stamen.utils.Hash"/>
+<classEntry path="com.stamen.utils.MathUtils"/>
+<classEntry path="com.stamen.utils.NumberFormatter"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>

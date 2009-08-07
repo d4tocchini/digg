@@ -1,0 +1,7 @@
+*.o
+.DS_Store
+**/*.log
+bin/digg.swc
+*digg.swc
+bin/*.swc
+asdoc/**
